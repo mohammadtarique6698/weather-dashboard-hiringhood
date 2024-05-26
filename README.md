@@ -1,6 +1,6 @@
-# Weather-page-digital-paani
+# Weather-page-Hiring-Hood
 
-Assignment For Digital Paani
+Assignment For Hiring Hood
 
 <<<<<<< HEAD
 
